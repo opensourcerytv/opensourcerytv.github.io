@@ -4,13 +4,12 @@ body {
 }
 
 .main {
-  width: 1000px;
+  width: 800px;
   height: 100vh;
   margin: 0 auto;
 }
 
 .banner {
   display: block;
-  width: 80%;
-  margin: 0 auto;
+  width: 100%;
 }
