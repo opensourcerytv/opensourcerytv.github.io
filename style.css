@@ -17,4 +17,5 @@ body {
 .pane {
   min-height: 300px !important;
   background-color: #eee;
+  padding: 20px;
 }
