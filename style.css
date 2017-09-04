@@ -13,3 +13,8 @@ body {
   display: block;
   width: 100%;
 }
+
+.pane {
+  min-height: 300px;
+  background-color: #eee;
+}
